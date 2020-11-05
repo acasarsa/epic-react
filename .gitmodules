@@ -9,4 +9,4 @@
 	url = git@github.com:acasarsa/advanced-react-hooks.git
 [submodule "03-advanced-react-patterns"]
 	path = 03-advanced-react-patterns
-	url = git@github.com:kentcdodds/advanced-react-patterns.git
+	url = git@github.com:acasarsa/advanced-react-patterns.git
