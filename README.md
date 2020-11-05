@@ -2,6 +2,7 @@
 
 ## Background
 This is a container repo to hold my progress on the [Epic React](https://epicreact.dev/) course by Kent C. Dodds. 
+This course seems like a great intro or review for anyone looking to brush up on or learn React. I was most excited about the testing section and suspense. 
 
 ## System Requirements
 
