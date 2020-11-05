@@ -1,0 +1,3 @@
+[submodule "00-react-fundamentals"]
+	path = 00-react-fundamentals
+	url = git@github.com:kentcdodds/react-fundamentals.git
