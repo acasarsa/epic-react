@@ -10,3 +10,15 @@
 [submodule "03-advanced-react-patterns"]
 	path = 03-advanced-react-patterns
 	url = git@github.com:acasarsa/advanced-react-patterns.git
+[submodule "04-react-performance"]
+	path = 04-react-performance
+	url = git@github.com:acasarsa/react-performance.git
+[submodule "05-testing-react-apps"]
+	path = 05-testing-react-apps
+	url = git@github.com:acasarsa/testing-react-apps.git
+[submodule "06-react-suspense"]
+	path = 06-react-suspense
+	url = git@github.com:acasarsa/react-suspense.git
+[submodule "07-bookshelf"]
+	path = 07-bookshelf
+	url = git@github.com:acasarsa/bookshelf.git
