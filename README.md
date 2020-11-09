@@ -19,5 +19,5 @@ cd submodule_path // example: cd 01-react-hooks
 node setup
 ```
 
-Once there go to the README for that lesson and following the directions and you should be good to go. I'll be leaving the main or master branch in each repo clean and will store my answers on the my-answer branch.
+Once there go to the README for that lesson and following the directions and you should be good to go. Each submodule has a blank-course branch that is blank... and can be used for your own practice. 
 
